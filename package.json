@@ -1,0 +1,13 @@
+{
+  "name": "weather-tells",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weather_tells — live weather with an application-generated score and verdict.",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
